@@ -11,4 +11,6 @@
 
 5) (Необязательно) - добавьте в список Pull To Refresh
 
-![alt text](image.png)
+
+![gif](https://github.com/user-attachments/assets/3a541d8b-a61d-4514-93d5-58629223e4d6)
+
